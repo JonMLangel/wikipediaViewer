@@ -11,8 +11,7 @@ html, body {
 .jumbotron {
   text-align: center;
   margin: 0 !important;
-  background-color:
-#FFFFFF;
+  background-color: #FFFFFF !important;
 }
 .container {
   position: relative;
@@ -120,12 +119,11 @@ p {
 a.btn-outline.btn-social:hover {
 	color: white;
 }
-.name {
+#name {
   position: relative;
   font-weight: 10px;
 }
-.name > a {
+#name > a {
   color: #A593E0;
-  text-decoration: none;
-
+  text-decoration:none;
 }
